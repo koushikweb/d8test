@@ -1,0 +1,17 @@
+language : en
+status : true
+dependencies :
+  module:
+    - rest_example
+id : content_resource
+plugid_id : content_resource
+granuality : resource
+configuration :
+  GET:
+  supported formats :
+    - json
+  supported auth :
+    - basic_auth
+
+
+

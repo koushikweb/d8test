@@ -1,0 +1,6 @@
+name: Custom REST API
+type: module
+description: This custom module is used to create custom rest apis
+package: Custom
+core: 8.x
+

@@ -1,0 +1,7 @@
+name: Custom user login
+type: module
+description: Example module to create custom user login
+core: 8.x
+package: Custom
+dependencies:
+   - block
