@@ -1,0 +1,8 @@
+name: My Custom Block
+description: A Custom Block Plugin
+type: module
+core: 8.x
+version: 1.0
+package: custom
+dependencies:
+  - block

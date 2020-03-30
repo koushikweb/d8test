@@ -1,0 +1,9 @@
+name : Ressfeed
+description : Show rss feed in home page
+type: module
+core : 8.x
+package : Custom
+version : 1.0
+dependencies :
+   - block
+configure : rssfeed.admin_settings
